@@ -5,7 +5,7 @@
 
 <div align = center>
 
-[![Badge License]][[License]]
+[![Badge License]][License]
 
 <br>
 <br>
