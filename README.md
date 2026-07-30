@@ -1,6 +1,10 @@
 #### Casual modder in free time 😜
 
 
+Nexus profile:
+https://i.imgur.com/FKdYKEu.png
+[img]https://i.imgur.com/FKdYKEu.png[/img]
+
 <br>
 
 <div align = left>
