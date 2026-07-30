@@ -1,11 +1,11 @@
 #### Casual modder in free time 😜
 
-https://www.nexusmods.com/profile/lucashort7
+
 <br>
 
 <div align = center>
 
-[![Badge License]][License]   
+[![Badge License]][[License]]
 
 <br>
 <br>
@@ -16,7 +16,7 @@ https://www.nexusmods.com/profile/lucashort7
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
-[License]: LICENSE
+[License]: https://www.nexusmods.com/profile/lucashort7
 [Shield]: Types/Shield.md
 [KBD]: Types/KBD.md
 [#]: #
