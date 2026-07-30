@@ -1,7 +1,9 @@
-#### Casual modder in free time 😜
+# Casual modder in free time 
 
 
-Nexus profile:
+### Nexus profile:
+<br>
+<br>
 [![nexus](https://i.imgur.com/FKdYKEu.png)](https://www.nexusmods.com/profile/lucashort7)
 
 
