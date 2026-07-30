@@ -1,19 +1,33 @@
 ## Modder in free time ^_^
 
+<div align = center>
 
-#### Nexus profile:
+<div>
+  
+![Foo](https://i.imgur.com/hmrrJct.png)
 
-<div align = left>
+</div>
 
+<br>
+
+
+<div>
+  
 <a href="https://www.nexusmods.com/profile/lucashort7">
   <img src="https://i.imgur.com/vk7ENLV.png" style="width:200px;"/>
 </a>
 
+<a href="https://thunderstore.io/c/hades-ii/p/hortWizard/SkipHarvestMinigames/">
+  <img src="https://avatars.githubusercontent.com/u/78955138?s=200&v=4" style="width:100px;"/>
+</a>
+
+</div>
+
+</div>
+
 <br>
 
-[![Foo](https://i.imgur.com/hmrrJct.png)](https://www.nexusmods.com/profile/lucashort7)
 
-<br>
 
 
 <!-- links- 
