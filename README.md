@@ -6,28 +6,21 @@
   
 ![Foo](https://i.imgur.com/hmrrJct.png)
 
-</div>
-
 <br>
 
 
-<div>
-
 <a href="https://thunderstore.io/c/hades-ii/p/hortWizard/SkipHarvestMinigames/" target="_blank">
-  <img src="https://gcdn.thunderstore.io/assets/hades-ii/hades-ii-icon-192x192.webp" style="width:100px;"/>
+  <img src="https://gcdn.thunderstore.io/assets/hades-ii/hades-ii-icon-192x192.webp"  width="100"/>
 </a>
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3774528547" target="_blank">
-  <img src="https://i.imgur.com/3XnkpQD.png" style="width:100px;"/>
+  <img src="https://i.imgur.com/3XnkpQD.png" width="100"/>
 </a>
 
 <a href="https://www.nexusmods.com/profile/lucashort7/" target="_blank">
-  <img src="https://i.imgur.com/vk7ENLV.png" style="width:200px;"/>
+  <img src="https://i.imgur.com/vk7ENLV.png" width="250"/>
 </a>
 
-
-
-</div>
 
 </div>
 
