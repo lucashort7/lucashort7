@@ -2,8 +2,8 @@
 
 
 Nexus profile:
-https://i.imgur.com/FKdYKEu.png
-[img]https://i.imgur.com/FKdYKEu.png[/img]
+![nexus](https://google.com](https://i.imgur.com/FKdYKEu.png)
+
 
 <br>
 
