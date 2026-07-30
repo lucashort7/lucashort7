@@ -12,14 +12,20 @@
 
 
 <div>
-  
-<a href="https://www.nexusmods.com/profile/lucashort7">
+
+<a href="https://thunderstore.io/c/hades-ii/p/hortWizard/SkipHarvestMinigames/" target="_blank">
+  <img src="https://gcdn.thunderstore.io/assets/hades-ii/hades-ii-icon-192x192.webp" style="width:100px;"/>
+</a>
+
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3774528547" target="_blank">
+  <img src="https://i.imgur.com/3XnkpQD.png" style="width:100px;"/>
+</a>
+
+<a href="https://www.nexusmods.com/profile/lucashort7/" target="_blank">
   <img src="https://i.imgur.com/vk7ENLV.png" style="width:200px;"/>
 </a>
 
-<a href="https://thunderstore.io/c/hades-ii/p/hortWizard/SkipHarvestMinigames/">
-  <img src="https://avatars.githubusercontent.com/u/78955138?s=200&v=4" style="width:100px;"/>
-</a>
+
 
 </div>
 
