@@ -2,7 +2,7 @@
 
 
 Nexus profile:
-![nexus](https://i.imgur.com/FKdYKEu.png)
+[![nexus](https://i.imgur.com/FKdYKEu.png)](https://www.nexusmods.com/profile/lucashort7)
 
 
 <br>
