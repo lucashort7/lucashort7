@@ -3,35 +3,25 @@
 
 #### Nexus profile:
 
-<br>
-
-[![Foo](https://i.imgur.com/FKdYKEu.png)](https://www.nexusmods.com/profile/lucashort7)
-
-
-<br>
-
 <div align = left>
 
-[![Badge License]][License]
+<a href="https://www.nexusmods.com/profile/lucashort7">
+  <img src="https://i.imgur.com/vk7ENLV.png" style="width:200px;"/>
+</a>
 
 <br>
+
+[![Foo](https://i.imgur.com/hmrrJct.png)](https://www.nexusmods.com/profile/lucashort7)
+
 <br>
 
 
+<!-- links- 
 
-<!---------------------------------------------------------------------------->
+[1]:  https://i.imgur.com/vk7ENLV.png
+[2]:  https://www.nexusmods.com/profile/lucashort7 "Nexus" 
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: https://www.nexusmods.com/profile/lucashort7
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
-
-
-<!---------------------------------[ Badges ]---------------------------------->
-
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+ -->
 
 
 <!--
