@@ -2,7 +2,7 @@
 
 
 Nexus profile:
-![nexus](https://google.com](https://i.imgur.com/FKdYKEu.png)
+![nexus](https://i.imgur.com/FKdYKEu.png)
 
 
 <br>
