@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Foo](https://i.imgur.com/hmrrJct.png)
+<!-- ![Foo](https://i.imgur.com/hmrrJct.png) -->
 
 <br>
 
